@@ -6,7 +6,7 @@ header{
 }
 .pics{
     height: auto;
-    width: 300px;
+    width: 200px;
    
 }
 p{
@@ -18,8 +18,11 @@ p{
 
 div{
     border: 2px solid blue;
+    height: 400px;
+    width: 400px;
     margin: 2px;
     padding: 2px;
+    word-wrap: break-word;
     
 
 }
