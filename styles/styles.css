@@ -1,0 +1,25 @@
+header{
+   
+    border: 2px solid blue;
+    width: 500px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.pics{
+    height: auto;
+    width: 300px;
+   
+}
+p{
+    text-indent;
+}
+.bol{
+    font-weight: bold;
+}
+
+div{
+    border: 2px solid blue;
+    margin: 2px;
+    padding: 2px;
+    
+
+}
